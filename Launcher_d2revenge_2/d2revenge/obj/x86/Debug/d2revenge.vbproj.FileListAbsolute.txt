@@ -1,0 +1,13 @@
+C:\Users\Azzlaer\documents\visual studio 2010\Projects\d2revenge\d2revenge\bin\Debug\d2revenge.exe
+C:\Users\Azzlaer\documents\visual studio 2010\Projects\d2revenge\d2revenge\bin\Debug\d2revenge.pdb
+C:\Users\Azzlaer\documents\visual studio 2010\Projects\d2revenge\d2revenge\bin\Debug\d2revenge.xml
+C:\Users\Azzlaer\documents\visual studio 2010\Projects\d2revenge\d2revenge\obj\x86\Debug\d2revenge.Form1.resources
+C:\Users\Azzlaer\documents\visual studio 2010\Projects\d2revenge\d2revenge\obj\x86\Debug\d2revenge.Resources.resources
+C:\Users\Azzlaer\documents\visual studio 2010\Projects\d2revenge\d2revenge\obj\x86\Debug\d2revenge.vbproj.GenerateResource.Cache
+C:\Users\Azzlaer\documents\visual studio 2010\Projects\d2revenge\d2revenge\obj\x86\Debug\d2revenge.exe
+C:\Users\Azzlaer\documents\visual studio 2010\Projects\d2revenge\d2revenge\obj\x86\Debug\d2revenge.xml
+C:\Users\Azzlaer\documents\visual studio 2010\Projects\d2revenge\d2revenge\obj\x86\Debug\d2revenge.pdb
+C:\Users\Azzlaer\Documents\Visual Studio 2010\Projects\d2revenge\d2revenge\bin\Debug\d2revenge.exe.manifest
+C:\Users\Azzlaer\Documents\Visual Studio 2010\Projects\d2revenge\d2revenge\bin\Debug\d2revenge.application
+C:\Users\Azzlaer\Documents\Visual Studio 2010\Projects\d2revenge\d2revenge\obj\x86\Debug\d2revenge.exe.manifest
+C:\Users\Azzlaer\Documents\Visual Studio 2010\Projects\d2revenge\d2revenge\obj\x86\Debug\d2revenge.application
