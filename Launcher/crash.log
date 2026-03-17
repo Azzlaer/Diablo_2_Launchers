@@ -1,0 +1,10 @@
+
+==============================================
+2025-12-12 21:46:12.875654  -  EXCEPCIÓN EN WORKER DESCARGA
+Traceback (most recent call last):
+  File "D:\MyProjects\auncher\main.py", line 63, in run
+    for descargado,totalb,estado in downloader.descargar_archivo(nombre,url,crc):
+  File "D:\MyProjects\auncher\downloader.py", line 86, in descargar_archivo
+    with open(ruta_final, "wb") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'D:\\Juegos\\Blizzard\\Diablo II Revenge 3.0\\Game.exe'

@@ -1,0 +1,109 @@
+[2025-12-01 03:04:28] WEBVIEW interno abierto: http://104.234.7.247/d2revenge/index.php
+[2025-12-01 03:05:55] WEBVIEW abierto: http://104.234.7.247/d2revenge/index.php
+[2025-12-01 03:05:56] WEBVIEW abierto: http://104.234.7.247/d2revenge/index.php
+[2025-12-01 03:05:57] WEBVIEW abierto: http://104.234.7.247/d2revenge/index.php
+[2025-12-01 03:05:58] WEBVIEW abierto: http://104.234.7.247/d2revenge/index.php
+[2025-12-01 03:05:59] WEBVIEW abierto: http://104.234.7.247/d2revenge/index.php
+[2025-12-01 03:06:40] WEBVIEW abierto con URL → http://104.234.7.247/d2revenge/index.php
+[2025-12-01 03:12:42] WEBVIEW abierto
+[2025-12-01 03:13:57] Descarga manual iniciada
+[2025-12-01 03:13:57] === Inicio descarga manual ===
+[2025-12-01 03:13:57] Archivos XML detectados: 28
+[2025-12-01 03:13:57] ✔ Autogoldpickup.dll (1/28)
+[2025-12-01 03:13:58] ✔ BH.cfg (2/28)
+[2025-12-01 03:13:58] ✔ BH.dll (3/28)
+[2025-12-01 03:13:58] ✔ BH_settings.cfg (4/28)
+[2025-12-01 03:13:58] ✔ Binkw32.dll (5/28)
+[2025-12-01 03:13:58] ✔ Bnclient.dll (6/28)
+[2025-12-01 03:13:59] ✔ D2Client.dll (7/28)
+[2025-12-01 03:13:59] ✔ D2CMP.dll (8/28)
+[2025-12-01 03:14:00] ✔ D2Common.dll (9/28)
+[2025-12-01 03:14:00] ✔ D2CubePortal.dll (10/28)
+[2025-12-01 03:14:01] ✔ D2Game.dll (11/28)
+[2025-12-01 03:14:01] ✔ Game.exe (12/28)
+[2025-12-01 03:14:01] ✔ Game2.exe (13/28)
+[2025-12-01 03:14:02] ✔ glide3x.dll (14/28)
+[2025-12-01 03:14:14] WEBVIEW abierto
+[2025-12-01 03:14:21] ✔ Patch_D2.mpq (15/28)
+[2025-12-01 03:14:21] ✔ Revenge.dll (16/28)
+[2025-12-01 03:14:21] ✔ RevengeD2.dll (17/28)
+[2025-12-01 03:14:21] ✔ SGD2FreeRes.dll (18/28)
+[2025-12-01 03:14:21] ✔ Storm.dll (19/28)
+[2025-12-01 03:14:27] ✔ TDAgg3.dll (20/28)
+[2025-12-01 03:14:27] ✔ UI.ini (21/28)
+[2025-12-01 03:14:27] ✔ TDAgg/1e09e9fe990bcbd69e450105f4d88a965a8a2112 (22/28)
+[2025-12-01 03:14:27] ✔ TDAgg/87ccc163303ee831509cd3a4f032582e5791a57e (23/28)
+[2025-12-01 03:14:27] ✔ TDAgg/BugSplat.exe (24/28)
+[2025-12-01 03:14:27] ✔ TDAgg/e63833a3eb52c8e6c6ff1837f431b36f5cfed84e (25/28)
+[2025-12-01 03:14:27] ✔ TDAgg/e94a0c9f38b837555980d4bfba2fd3066bd86a8a (26/28)
+[2025-12-01 03:14:28] ✔ TDAgg/GameGuard.tda (27/28)
+[2025-12-01 03:14:29] ✔ TDAgg/GameGuard64.tda (28/28)
+[2025-12-01 03:14:29] === Descarga manual finalizada ===
+
+[2025-12-02 00:14:59] WEBVIEW abierto
+[2025-12-02 00:15:59] WEBVIEW abierto
+[2025-12-04 00:59:15] Cancelación solicitada
+[2025-12-04 00:59:17] Cancelación solicitada
+[2025-12-04 00:59:17] Cancelación solicitada
+[2025-12-04 00:59:17] Cancelación solicitada
+[2025-12-04 00:59:17] Cancelación solicitada
+[2025-12-04 00:59:18] Cancelación solicitada
+[2025-12-04 00:59:18] Cancelación solicitada
+[2025-12-04 00:59:18] Cancelación solicitada
+[2025-12-04 00:59:18] Cancelación solicitada
+[2025-12-04 00:59:30] WEBVIEW abierto
+[2025-12-07 06:04:13] 🚀 Ejecutando como Admin → D:\Juegos\Blizzard\Diablo II Revenge 3.0\Game.exe -skiptobnet -w
+[2025-12-12 21:45:24] WEBVIEW abierto
+[2025-12-12 21:46:07] 🚀 Ejecutando como Admin → D:\Juegos\Blizzard\Diablo II Revenge 3.0\Game.exe -skiptobnet
+[2025-12-12 21:46:09] Descarga manual iniciada
+[2025-12-12 21:46:09] === Inicio descarga manual ===
+[2025-12-12 21:46:10] Archivos XML detectados: 28
+[2025-12-12 21:46:10] ✔ Autogoldpickup.dll (1/28)
+[2025-12-12 21:46:10] ✔ BH.cfg (2/28)
+[2025-12-12 21:46:10] ✔ BH.dll (3/28)
+[2025-12-12 21:46:11] ✔ BH_settings.cfg (4/28)
+[2025-12-12 21:46:11] ✔ Binkw32.dll (5/28)
+[2025-12-12 21:46:11] ✔ Bnclient.dll (6/28)
+[2025-12-12 21:46:11] ✔ D2Client.dll (7/28)
+[2025-12-12 21:46:11] ✔ D2CMP.dll (8/28)
+[2025-12-12 21:46:12] ✔ D2Common.dll (9/28)
+[2025-12-12 21:46:12] ✔ D2CubePortal.dll (10/28)
+[2025-12-12 21:46:12] ✔ D2Game.dll (11/28)
+[2025-12-12 21:46:12] [CRASH] EXCEPCIÓN EN WORKER DESCARGA: [Errno 13] Permission denied: 'D:\\Juegos\\Blizzard\\Diablo II Revenge 3.0\\Game.exe'
+[2025-12-20 00:03:09] WEBVIEW abierto
+[2026-03-16 22:24:46] WEBVIEW abierto
+[2026-03-16 22:25:22] Descarga manual iniciada
+[2026-03-16 22:25:22] === Inicio descarga manual ===
+[2026-03-16 22:25:23] Archivos XML detectados: 29
+[2026-03-16 22:25:24] ✔ D2Revenge Launcher.exe (1/29)
+[2026-03-16 22:25:24] ✔ Autogoldpickup.dll (2/29)
+[2026-03-16 22:25:25] ✔ BH.dll (3/29)
+[2026-03-16 22:25:26] ✔ Binkw32.dll (4/29)
+[2026-03-16 22:25:26] ✔ Bnclient.dll (5/29)
+[2026-03-16 22:25:28] ✔ D2Client.dll (6/29)
+[2026-03-16 22:25:28] ✔ D2CMP.dll (7/29)
+[2026-03-16 22:25:28] ✔ D2Common.dll (8/29)
+[2026-03-16 22:25:29] ✔ D2CubePortal.dll (9/29)
+[2026-03-16 22:25:31] ✔ D2Game.dll (10/29)
+[2026-03-16 22:25:31] ✔ Game.exe (11/29)
+[2026-03-16 22:25:31] ✔ Game2.exe (12/29)
+[2026-03-16 22:25:36] ✔ glide3x.dll (13/29)
+[2026-03-16 22:26:41] ✔ Patch_D2.mpq (14/29)
+[2026-03-16 22:26:42] ✔ Revenge.dll (15/29)
+[2026-03-16 22:26:42] ✔ RevengeD2.dll (16/29)
+[2026-03-16 22:26:42] ✔ SGD2FreeRes.dll (17/29)
+[2026-03-16 22:26:43] ✔ Storm.dll (18/29)
+[2026-03-16 22:27:01] ✔ TDAgg3.dll (19/29)
+[2026-03-16 22:27:02] ✔ UI.ini (20/29)
+[2026-03-16 22:27:02] ✔ patchnotes.txt (21/29)
+[2026-03-16 22:27:02] ✔ amazon.txt (22/29)
+[2026-03-16 22:27:02] ✔ assasin.txt (23/29)
+[2026-03-16 22:27:02] ✔ barbarian.txt (24/29)
+[2026-03-16 22:27:02] ✔ cube.txt (25/29)
+[2026-03-16 22:27:02] ✔ druid.txt (26/29)
+[2026-03-16 22:27:02] ✔ necromancer.txt (27/29)
+[2026-03-16 22:27:02] ✔ paladin.txt (28/29)
+[2026-03-16 22:27:02] ✔ sorcerer.txt (29/29)
+[2026-03-16 22:27:02] === Descarga manual finalizada ===
+
+[2026-03-16 22:27:53] 🚀 Ejecutando como Admin → D:\Juegos\Blizzard\Diablo II Revenge 3.0\Game.exe -skiptobnet -3dfx
